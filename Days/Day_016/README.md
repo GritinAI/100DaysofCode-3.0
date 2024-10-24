@@ -2,7 +2,7 @@
 
 ## Running Large Language Models (LLM) Locally with Ollama II
 
-![100 days of code Day 16](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day16.png)
+![100 days of code Day 16](../../Images/Day16.png)
 
 Welcome to Day 15 of the 100 Days of Code challenge!
 

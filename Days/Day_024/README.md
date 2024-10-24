@@ -2,7 +2,7 @@
 
 ## Revision
 
-![100 days of code Day 24](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day24.jpg)
+![100 days of code Day 24](../../Images/Day24.jpg)
 
 Today, we’ll take a moment to revise all the key concepts we’ve covered so far. It’s important to review what we've learned to solidify your understanding and ensure you're ready for the upcoming topics. Below is a summary of the topics we’ve explored:
 

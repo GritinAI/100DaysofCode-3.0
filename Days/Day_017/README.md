@@ -2,7 +2,7 @@
 
 ## Running LLM Locally with Ollama III
 
-![100 days of code Day 17](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day17.jpg)
+![100 days of code Day 17](../../Images/Day17.jpg)
 
 Today, we’ll continue with Part 3 of Running Large Language Models (LLM) Locally with Ollama. Our focus will be on:
 

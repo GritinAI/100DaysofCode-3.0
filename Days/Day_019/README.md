@@ -2,7 +2,7 @@
 
 ## Running Gemma with Hugging Face, Ollama, and Exploring LangChain
 
-![100 days of code Day 19](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day19.png)
+![100 days of code Day 19](../../Images/Day19.png)
 
 Today, we’ll be focusing on two powerful tools for running and managing AI models:
 

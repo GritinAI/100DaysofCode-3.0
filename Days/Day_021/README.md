@@ -2,7 +2,7 @@
 
 ## Vector Database
 
-![100 days of code Day 21](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day21.jpg)
+![100 days of code Day 21](../../Images/Day21.jpg)
 
 Today’s session focuses on:
 

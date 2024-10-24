@@ -2,7 +2,7 @@
 
 ## Introduction to Transformer Architecture
 
-![100 days of code Day 9](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day9.jpg)
+![100 days of code Day 9](../../Images/Day9.jpg)
 
 Welcome to Day 9 of the 100 Days of Code challenge! 
 

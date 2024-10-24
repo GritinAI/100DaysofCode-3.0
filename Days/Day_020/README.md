@@ -2,7 +2,7 @@
 
 ## Ollama Meets LangChain & Function Calling with Local Models
 
-![100 days of code Day 20](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day20.jpg)
+![100 days of code Day 20](../../Images/Day20.jpg)
 
 Today’s session focuses on:
 

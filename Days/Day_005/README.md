@@ -2,7 +2,7 @@
 
 ## Python Machine Learning Tutorial 1
 
-![100 days of code Day 5](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day5.jpg)
+![100 days of code Day 5](../../Images/Day5.jpg)
 
  Machine Learning is a field of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed. It involves training algorithms on data to identify patterns and make informed decisions.
  

@@ -2,7 +2,7 @@
 
 ## Introduction to Generative AI, LLM, and GPT
 
-![100 days of code Day 8](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day8.png)
+![100 days of code Day 8](../../Images/Day8.png)
 
 Welcome to Day 8 of the 100 Days of Code challenge! 
 Today, we look into the foundations of Generative AI, LLM (Large Language Models), and GPT (Generative Pretrained Transformer).

@@ -2,7 +2,7 @@
 
 ## Revision
 
-![100 days of code Day 12](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day12.jpg)
+![100 days of code Day 12](../../Images/Day12.jpg)
 
 Welcome to Day 12 of the "100 Days of Code" challenge!
 

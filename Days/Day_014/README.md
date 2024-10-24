@@ -2,7 +2,7 @@
 
 ## Prompt Engineering III
 
-![100 days of code Day 14](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day14.jpg)
+![100 days of code Day 14](../../Images/Day14.jpg)
 
 Welcome to Day 14 of the 100 Days of Code challenge!
 

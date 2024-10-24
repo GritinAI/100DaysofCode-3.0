@@ -2,7 +2,7 @@
 
 ## Generative AI in a Nutshell 
 
-![100 days of code Day 7](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day7.png)
+![100 days of code Day 7](../../Images/Day7.png)
 
 Welcome to Day 7 of the 100 Days of Code challenge! Today, we’ll cover Generative AI in a Nutshell and the differences between Generative AI vs. Descriptive AI.
 

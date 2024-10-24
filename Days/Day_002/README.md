@@ -2,7 +2,7 @@
 
 ## Python (Crash Course) 1
 
-![100 days of code Day 2](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day2.jpg)
+![100 days of code Day 2](../../Images/Day2.jpg)
 
 Welcome to Day 2 of our "100 Days of Code" challenge! Today, we’ll learn about the basics of Python.
 

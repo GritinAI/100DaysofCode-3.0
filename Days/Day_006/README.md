@@ -2,7 +2,7 @@
 
 ## Python Machine Learning Tutorial 2
 
-![100 days of code Day 6](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day6.jpg)
+![100 days of code Day 6](../../Images/Day6.jpg)
 
 Welcome to Day 6! Today, we’ll focus on how to approach a real machine learning problem.
 

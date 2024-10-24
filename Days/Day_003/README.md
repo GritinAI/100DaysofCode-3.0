@@ -2,7 +2,7 @@
 
 ## Python (Crash Course) 2
 
-![100 days of code Day 3](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day3.jpg)
+![100 days of code Day 3](../../Images/Day3.jpg)
 
 Welcome to Day 3! 
 Today, we’ll learn about control flow and data structures and other essential python concepts.

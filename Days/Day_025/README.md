@@ -2,7 +2,7 @@
 
 ## Retrieval Augumented Generation
 
-![100 days of code Day 25](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day25.jpg)Welcome to Day 25 of the 100 Days of Code challenge!
+![100 days of code Day 25](../../Images/Day25.jpg)Welcome to Day 25 of the 100 Days of Code challenge!
 
 Today, we’ll learn about RAG (Retrieval-Augmented Generation)—an advanced technique that combines retrieval methods with generative models for more accurate and informed responses.
 

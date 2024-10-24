@@ -2,7 +2,7 @@
 
 ## Understanding Google Colab
 
-![100 days of code Day 4](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day4.jpg)
+![100 days of code Day 4](../../Images/Day4.jpg)
 
 Learn how to use Google Colab for running Python code, accessing free GPUs, and collaborating on data science projects.
 

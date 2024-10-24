@@ -2,7 +2,7 @@
 
 ## Vector Embeddings
 
-![100 days of code Day 23](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day23.jpg)
+![100 days of code Day 23](../../Images/Day23.jpg)
 
 Welcome to Day 23 of the 100 Days of Code challenge! 
 

@@ -2,7 +2,7 @@
 
 ## Open Source AI with Hugging Face
 
-![100 days of code Day 11](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day11.jpg)
+![100 days of code Day 11](../../Images/Day11.jpg)
 
 Welcome to Day 10 of the 100 Days of Code challenge! 
 

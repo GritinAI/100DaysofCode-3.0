@@ -2,7 +2,7 @@
 
 ## Rise of AI Engineers & History of DevOps
 
-![100 days of code Day 1](https://github.com/GritinAI/100DaysofCodeGenerativeAI/blob/main/Images/Day1.jpg)
+![100 days of code Day 1](../../Images/Day1.jpg)
 
 Welcome to Day 1 of our "100 Days of Code" challenge! Today, we would be learning about AI Engineers and the History of DevOps..
 
