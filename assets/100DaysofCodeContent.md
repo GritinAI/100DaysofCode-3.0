@@ -1,0 +1,244 @@
+  
+Day 26
+
+RAG Indexing and Retrieval
+
+Welcome to Day 26 of the 100 Days of Code challenge\!
+
+Today, we’ll learn more about RAG (Retrieval-Augmented Generation)—an advanced technique that combines retrieval methods with generative models for more accurate and informed responses.
+
+Learn and master Rag Indexing and Retrieval techniques to efficiently store, search, and retrieve data
+
+Key Topics for Today:
+
+[RAG Indexing](https://youtu.be/bjb_EMsTDKI?si=w-KesbdFjiNkdDgJ): Learn how to index data effectively to improve retrieval for generative models.  
+[RAG Retrieval](https://youtu.be/LxNVgdIz9sU?si=AcO729_jZ2DdZCWW): Explore how relevant information is retrieved from indexed data to enhance the output of AI models.
+
+---
+
+Day 27
+
+RAG Generation 
+
+Welcome to Day 27 of the 100 Days of Code challenge\!
+
+Today, we’ll learn how RAG produces informative and engaging text, thus making it a powerful tool for various NLP tasks.
+
+Learn more [here](https://youtu.be/Vw52xyyFsB8?si=fGF0Fp3GMZgLj_N0)
+
+---
+
+Day 28
+
+RAG Multi-query
+
+Welcome to Day 28 of the 100 Days of Code challenge\!
+
+Today you will learn to handle multiple queries simultaneously and retrieve relevant information from external knowledge sources to generate contextually appropriate responses for each query. 
+
+Get [Started](https://youtu.be/JChPi0CRnDY?si=oNStN1DV8v-yhXCT) 
+
+---
+
+Day 29
+
+RAG Fusion
+
+Welcome to Day 29 of the 100 Days of Code challenge\!
+
+Today you will learn to combine the knowledge retrieval capabilities of RAG with the text fusion capabilities of Fusion models to generate high-quality, coherent, and accurate text. 
+
+Explore RAG Fusion [here](https://youtu.be/77qELPbNgxA?si=qVfarlP-WxHp4hfP)
+
+---
+
+Day 30
+
+Decomposition  
+   
+Welcome to Day 30 of the 100 Days of Code challenge\!
+
+Today you will learn about Query decomposition. This is a strategy used to improve question-answering by breaking down a question into sub-questions. These can either be (1) solved sequentially or (2) independently answered followed by consolidation into a final answer. 
+
+Learn more about [query decomposition](https://youtu.be/77qELPbNgxA?si=qVfarlP-WxHp4hfP) 
+
+---
+
+Day 31
+
+RAG Intermediate \- Step Back 
+
+Welcome to Day 31 of the 100 Days of Code challenge\!
+
+Today we will learn about Step-back prompting which is an approach to improve retrieval that builds on chain-of-thought reasoning. From a question, it generates a step-back (higher level, more abstract) question that can serve as a precondition to correctly answering the original question. This is especially useful in cases where background knowledge or more fundamental understanding is helpful to answer a specific question.
+
+Learn more [here](https://youtu.be/xn1jEjRyJ2U?si=z5dr-2pyVCGP8qZk)
+
+---
+
+Day 32 
+
+RAG Intermediate \- Hyde
+
+Welcome to Day 32 of the 100 Days of Code challenge\!
+
+Today we will learn about HyDE\!
+
+HyDE (Hypothetical Document Embeddings) is an approach to improve retrieval that generates hypothetical documents that could be used to answer the user input question. These documents, drawn from the LLMs knowledge, are embedded and used to retrieve documents from an index. The idea is that hypothetical documents….learn [more](https://youtu.be/SaDzIVkYqyY?si=WRIMJ1qhE3xteD-C)
+
+---
+
+Day 33
+
+RAG Intermediate \- Routing 
+
+Welcome to Day 33 of the 100 Days of Code challenge\!
+
+Today we will focus on the different types of [query routing](https://youtu.be/pfpIndq7Fi8?si=uZfYTBiqA4MGTDLX) 
+
+1. Logical   
+2. Semantic
+
+Routing is basically routing potentially different question to the right source, in many cases it might be a different database. learn more [here](https://youtu.be/pfpIndq7Fi8?si=uZfYTBiqA4MGTDLX)
+
+---
+
+Day 34 
+
+Query Structuring 
+
+Welcome to Day 34 of the 100 Days of Code challenge\!
+
+RAG systems ingest questions in natural language but we interact w/ databases using domain-specific languages (e.g., SQL, Cypher for Relational and Graph DBs). And, many vectorstores have metadata that can allow for structured queries to filter chunks. Let’s [dive](https://youtu.be/kl6NwWYxvbM?si=9cekJCKgMj_tUhHk) into how user questions are converted into structured queries.  
+---
+
+Day 35 
+
+Multi-Representation Indexing
+
+Welcome to Day 35 of the 100 Days of Code challenge\!
+
+Many RAG approaches focus on splitting documents into chunks and returning some number upon retrieval for the LLM. But chunk size and chunk number can be brittle parameters that many users find difficult to set; both can significantly affect results if they do not contain all context to answer a question.
+
+Today we will learn some useful tricks for indexing full documents. Check it [out](https://youtu.be/gTCU9I6QqCE?si=B2hKU80eVBYfJARR).
+
+---
+
+Day 36
+
+Deep Dive into RAG \- Raptor
+
+Welcome to Day 36 of the 100 Days of Code challenge\!
+
+Today we will learn a technique used in RAG (Retrieval-Augmented Generation) systems to handle both "lower-level" and "higher-level" questions. Raptor is a sparse retrieval method that enables the model to retrieve relevant documents and passages across a large corpus, even if they are not among the top-k nearest neighbors.
+
+Raptor is particularly useful for handling "higher-level" questions that require distilling ideas across multiple documents. By using Raptor, RAG systems can retrieve a larger set of relevant documents and passages, allowing the model to generate more accurate and informative responses….learn [more](https://youtu.be/z_6EeA2LDSw?si=MK9ehP947BKkRkRZ)
+
+---
+
+Day 37
+
+Deep Dive into RAG \- Colbert
+
+Welcome to Day 37 of the 100 Days of Code challenge
+
+Another technique used in RAG systems is  ColBERT (COLlar-based BERT), it is used to improve the efficiency and effectiveness of retrieval. ColBERT uses a late-interaction approach, where the query and documents are represented as collections of embeddings, and the similarity is computed between these collections….learn this technique [here](https://youtu.be/cN6S0Ehm7_8?si=GU_kiR1klr_H7NFD)
+
+---
+
+Day 38
+
+Local Agentic RAG with llama3
+
+Welcome to Day 38 of the 100 Days of Code challenge  
+Local Agentic RAG is a variant of the RAG architecture that focuses on using local knowledge to generate responses. By incorporating LLaMA3, a large language model, into the Local Agentic RAG framework, you can leverage the strengths of both models to generate high-quality responses….let’s explore how it works [here](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
+
+---
+
+Day 39
+
+Road to LLM finetunning
+
+Welcome to Day 39 of the 100 Days of Code challenge  
+Today we will learn about finetuning LLM. The road to LLM finetuning involves pretraining a large language model, preparing a dataset, selecting and configuring the model, finetuning, evaluating, and iterating to optimize performance on a specific task.
+
+Key Topic for Today:
+
+[Quantization](https://youtu.be/6S59Y0ckTm4?si=J28Jb5hFcWlInQLP): This is a common technique used to reduce the model size, though it can sometimes result in reduced accuracy.  
+---
+
+Day 40
+
+Mathematical Intuition 
+
+Welcome to Day 40 of the 100 Days of Code challenge\!
+
+Today we will be learning about some finetuning techniques which is called as LoRA and QLoRA techniques, low order rank adaptation, and quantized Lora.
+
+Let’s get [started](https://youtu.be/l5a_uKnbEr4?si=DZEQ_wQETCsNSn-U)\!
+
+---
+
+Day 41
+
+1-bit LLMs \- The Era of 1-bit 
+
+Welcome to Day 41 of the 100 Days of Code challenge\!
+
+1-bit LLMs (Large Language Models) refer to a new generation of language models that use 1-bit precision (binary) weights and activations, instead of the traditional 32-bit floating-point precision.
+
+What are the implications of this innovation? Find out more [here](https://youtu.be/wN07Wwtp6LE?si=QaId_RC0CbZWGbkq)
+
+---
+
+Day 42
+
+Simplify LLMOps & Build LLM pipeline in Minutes
+
+Welcome to Day 42 of the 100 Days of Code challenge\!
+
+Today, we will learn how to quickly build and deploy an LLM pipeline. LLMOps (Large Language Model Operations) simplifies the deployment and management of large language models. To build an LLM pipeline in minutes, watch this [video](https://youtu.be/4ijnajzwor8?si=lDeWNZvt_p65CMon).  
+---
+
+Day 43
+
+Llama 2 with Custom Dataset
+
+Welcome to Day 43 of the 100 Days of Code challenge\!
+
+Today we will be discussing how we can fine tune LLAMA 2 model with custom dataset using parameter efficient Transfer Learning  using LoRA :Low-Rank Adaptation of Large Language Models.
+
+Note that by fine-tuning LLaMA 2 on your custom dataset, you can create a highly specialized language model that excels in your specific use case. Check it [out](https://youtu.be/Vg3dS-NLUT4?si=YoVlwnCyIv3Xm-c8)  
+---
+
+Day 44
+
+Finetune Gemma models 
+
+Welcome to Day 44 of the 100 Days of Code challenge\!
+
+Today we will explore LoRA for finetuning Gemma (via Keras framework). LoRA is a technique for adapting pre-trained models to specific tasks with minimal additional parameters. With LoRA, you can adapt Gemma to your specific task with minimal additional parameters, making it more efficient and effective. LoRA is particularly useful when you have a small to medium-sized dataset and want to leverage the pre-trained model's knowledge.
+
+Learn how to use [LoRA](https://youtu.be/IZXNgu4dW70?si=mlRawnm8pOOSOBaQ).  
+---
+
+Day 45
+
+Gen AI Fine Tune LLM model \- Model Crash Course
+
+Welcome to Day 45 of the 100 Days of Code challenge\!
+
+Today, we are going to learn how we can fine-tune LLM in 2024\.  It’s no secret that [large language models (LLMs)](https://www.superannotate.com/blog/llm-overview) are evolving at a wild speed and are turning heads in the [generative AI](https://www.superannotate.com/blog/generative-ai-explained) industry. Enterprises aren't just intrigued; they're obsessed with LLMs, particularly. [Continue reading](https://www.superannotate.com/blog/llm-fine-tuning) 
+
+---
+
+Day 46
+
+LLM Agent 1 \- Deep Learning Short Course 
+
+In this course you will learn to build an agent from scratch using Python and an LLM, and then you will rebuild it using LangGraph, learning about  its components and how to combine them to build flow-based applications.
+
+Enroll [now](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/).  
+---
+
+Day 47 
