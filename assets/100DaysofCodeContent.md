@@ -242,3 +242,84 @@ Enroll [now](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/).
 ---
 
 Day 47 
+
+AI Agentic Design Patterns with AutoGen
+
+Welcome to Day 47 of the 100 Days of Code challenge\!
+
+Today we will learn about AutoGen. This is a tool that generates code for AI models, and when combined with AI Agentic Design Patterns, it enables the creation of autonomous AI systems that can adapt and learn. Learn more about [AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/).
+
+---
+
+Day 48
+
+Architecting & Testing reliable agents
+
+Welcome to Day 48 of the 100 Days of Code challenge\!
+
+Architecting and testing reliable agents is crucial for ensuring that autonomous systems operate correctly and make informed decisions. 
+
+The best practices includes:
+
+* Use established development frameworks and libraries  
+* Implement robust error handling and exception handling  
+* Conduct regular code reviews and testing  
+* Utilize continuous integration and deployment pipelines  
+* Monitor agent performance and update as needed
+
+Check out the [slide](https://docs.google.com/presentation/d/1QWkXi4DYjfw94eHcy9RMLqpQdJtS2C_kx_u7wAUvlZE/edit#slide=id.g273e7f400bc_0_0) to learn more
+
+---
+
+Day 49
+
+Breakout Session: LLM Agent
+
+Welcome to Day 49 of the 100 Days of Code challenge\!
+
+Today we will be having a breakout session to discuss all we have learnt so far, trash out any questions or misunderstandings you might have. 
+
+In anticipation of today’s meet, read up on [LLM Agents](https://www.promptingguide.ai/research/llm-agents) 
+
+---
+
+Day 50
+
+Learning Tensorflow I
+
+Welcome to Day 50 of the 100 Days of Code challenge\!
+
+We are digging deeper. Today we will be exploring Tensorflow. TensorFlow allows researchers and developers to easily scale up their machine learning models and train them on large datasets, making it a crucial tool for large-scale deep learning tasks.
+
+Are you ready to learn the fundamentals of TensorFlow and deep learning with Python? Follow this tutorial to have a good grasp of [tensorflow](https://www.youtube.com/watch?v=tpCFfeUEGs8).
+
+---
+
+Day 51
+
+Learning Tensorflow II
+
+Welcome to Day 51 of the 100 Days of Code challenge\!
+
+Today we are going to continue from where we left off yesterday. Don’t forget that with tensorflow you can:
+
+* Train models on multiple GPUs or machines  
+* Handle large datasets that don't fit in memory  
+* Speed up training processes
+
+Check out [Tensorflow II](https://www.youtube.com/watch?v=ZUKz4125WNI&t=0s)
+
+---
+
+Day 52
+
+Learning PyTorch A
+
+Welcome to Day 52 of the 100 Days of Code challenge\!
+
+PyTorch is a library that has gained significant popularity in the research community, particularly in areas like computer vision, natural language processing, and reinforcement learning. Its dynamic computation graph and flexibility make it an attractive choice for many researchers and developers. 
+
+Sit tight, let's learn [Pytorch](https://www.youtube.com/watch?v=Z_ikDlimN6A).
+
+---
+
