@@ -96,6 +96,8 @@ if __name__ == "__main__":
     # print(lines[index])
     # print(lines[index].split("\n\n"))
 
+    extract_images()
+
     for line in lines:
         day, content = format_line(line)
         save_content_for_day(day, content)
