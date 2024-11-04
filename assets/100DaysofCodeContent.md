@@ -323,3 +323,101 @@ Sit tight, let's learn [Pytorch](https://www.youtube.com/watch?v=Z_ikDlimN6A).
 
 ---
 
+Day 53
+
+Learning PyTorch A
+
+Welcome to Day 53 of the 100 Days of Code challenge\!
+
+You probably did a speed watch of yesterday’s video on Pytorch. Let’s break it down into four sections.
+
+Today, we will go over the first 6 hours of the video.
+
+Rewatch [here](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
+---
+
+Day 54
+
+Learning PyTorch A
+
+Welcome to Day 54 of the 100 Days of Code challenge\!
+
+Today, we will explore the next 6 hours from where we stopped yesterday. We will continue to discuss how we can set up loss functions, optimizers and improve a model.
+
+Rewatch [here](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=21716s)
+
+---
+
+Day 55
+
+Learning PyTorch A
+
+Welcome to Day 55 of the 100 Days of Code challenge\!
+
+Today is our 4th day on Pytorch, we will discuss:
+
+1. Troubleshooting a multiclass model  
+2. Introduction to computer vision  
+3. Creating a train/test loop   
+4. Coding in CNN
+
+Start from 12:00:00 [here](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=42658s)
+
+---
+
+Day 56
+
+Learning PyTorch A
+
+Welcome to Day 56 of the 100 Days of Code challenge\!
+
+Today we will complete the review of learning Pytorch A. The last 6 hours of the video covers the entire process of working with custom datasets in deep learning, from downloading and exploring the data to building and training a model, and finally predicting on new data. It also covers important concepts like data augmentation, overfitting, and underfitting.
+
+Resume [here](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=66514s)
+
+---
+
+Day 57
+
+Learning PyTorch B
+
+Welcome to Day 57 of the 100 Days of Code challenge\!
+
+Today we will learn how to build deep learning models with PyTorch and Python. Let’s make PyTorch a bit more approachable for people starting out with deep learning and neural networks. 
+
+We will focus on the first 4 hours of [PyTorch](https://www.youtube.com/watch?v=GIsg-ZUy0MY) and learn:
+
+* PyTorch Basics & Linear Regression  
+* Image Classification with Logistic Regression  
+* Training Deep Neural Networks on a GPU with PyTorch
+
+---
+
+Day 58
+
+Learning PyTorch B
+
+Welcome to Day 58 of the 100 Days of Code challenge\!
+
+Yesterday, we were able to focus on the first part of [PyTorch](https://www.youtube.com/watch?v=GIsg-ZUy0MY). Today we will continue from [4:44:51](https://www.youtube.com/watch?v=GIsg-ZUy0MY&t=17091s) and explore the following concepts:
+
+* Image Classification using Convolutional Neural Networks  
+* Residual Networks, Data Augmentation and Regularization  
+* Training Generative Adverserial Networks (GANs)
+
+At the end of this tutorial, you should have a good grasp of PyTorch. 
+
+Have fun learning\!
+
+---
+
+Day 59
+
+Tensorflow vs PyTorch
+
+Welcome to Day 59 of the 100 Days of Code challenge\!
+
+Over the past few days, we have explored Tensorflow and PyTorch. Now, let’s look into the interplay and disparities of the two frameworks.
+
+Check it out [here](https://www.youtube.com/watch?v=4L86D_fU6sQ)
