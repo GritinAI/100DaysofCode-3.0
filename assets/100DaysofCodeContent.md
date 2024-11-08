@@ -420,4 +420,188 @@ Welcome to Day 59 of the 100 Days of Code challenge\!
 
 Over the past few days, we have explored Tensorflow and PyTorch. Now, let’s look into the interplay and disparities of the two frameworks.
 
-Check it out [here](https://www.youtube.com/watch?v=4L86D_fU6sQ)
+Check it out [here](https://www.youtube.com/watch?v=4L86D_fU6sQ)  
+---
+
+Day 60
+
+Other Deep Learning Frameworks I
+
+Welcome to Day 60 of the 100 Days of Code challenge\!
+
+We have explored tensorflow and pytorch, let’s take a look at other frameworks for deep learning like Jax, Flax and Mxnet.
+
+Check it out [here](https://www.youtube.com/watch?v=fIPBP075Cfo)  
+---
+
+Day 61
+
+Other Deep Learning Frameworks II
+
+Welcome to Day 61 of the 100 Days of Code challenge\!
+
+Today, we'll compare 10 deep learning frameworks across a wide variety of metrics. We’ve got a lot to cover; PyTorch, Tensorflow, MXNet, Chainer, CNTK, Sonnet, DeepLearning4J, CoreML, ONNX. Let’s get started and come to some clear conclusions.
+
+Check it out [here](https://www.youtube.com/watch?v=SJldOOs4vB8)  
+---
+
+Day 62
+
+Other Deep Learning Frameworks III
+
+Welcome to Day 62 of the 100 Days of Code challenge\!
+
+There are many deep learning frameworks out there that make it easier for you to implement neural networks. A good grasp of matrix multiplication and basic python programming will make today’s learning seamless. You should brush up on the duo or just dive into today’s lesson [here](https://www.youtube.com/watch?v=AK6r-llqogg)
+
+---
+
+Day 63
+
+Autoencoders (AE) I (Option A)
+
+Welcome to Day 63 of the 100 Days of Code challenge\!  
+Autoencoders are trained to minimize the difference between the input data and the reconstructed output, typically using a loss function such as mean squared error or cross-entropy.   
+Today, we will introduce Autoencoders, how they work and how we can implement them in PyTorch. 
+
+Check it out [here](https://www.youtube.com/watch?v=zp8clK9yCro)
+
+---
+
+Day 64
+
+Autoencoders (AE) I (Option B)
+
+Welcome to Day 64 of the 100 Days of Code challenge\!
+
+Do you know that An autoencoder is an unsupervised learning technique? But what does that really mean?
+
+Today we will take another approach in exploring what autoencoders really are. Check it out [here](https://www.youtube.com/watch?v=zp8clK9yCro)
+
+---
+
+Day 65
+
+Variational Autoencoders (VAEs)
+
+Welcome to Day 65 of the 100 Days of Code challenge\!
+
+Over the next three days we will explore the concept of VAEs. Today we will try to understand VAEs in relation to anomaly detection. Check it out [here](https://www.youtube.com/watch?v=YV9D3TWY5Zo)
+
+---
+
+Day 66
+
+Variational Autoencoders (VAEs)
+
+Welcome to Day 66 of the 100 Days of Code challenge\!
+
+Yesterday, we got a more vivid explanation on what autoencoders are. We will go over the tutorial again and focus on sampling. Check it out [here](https://www.youtube.com/watch?v=YV9D3TWY5Zo)
+
+---
+
+Day 67
+
+Variational Autoencoders (VAEs)
+
+Welcome to Day 67 of the 100 Days of Code challenge\!
+
+We have learnt that Variational Autoencoders (VAEs) are a type of autoencoder that learns a probabilistic representation of the input data. They are trained to maximize the likelihood of the data while also regularizing the latent space to follow a Gaussian distribution. Today we will rewatch the video and place more emphasis on how to define latent variable space. 
+
+Check it out [here](https://www.youtube.com/watch?v=YV9D3TWY5Zo)  
+---
+
+Day 68
+
+Generative Adversarial Networks (GANs) I
+
+Welcome to Day 68 of the 100 Days of Code challenge\!
+
+Generative Adversarial Networks (GANs) pit two different deep learning models against each other in a game. Let’s listen to Martin Keen with IBM, explain how this competition between the generator and discriminator can be utilized to both create and detect how you can benefit from the competition.
+
+Check it out [here](https://www.youtube.com/watch?v=TpMIssRdhco)  
+---
+
+Day 69
+
+Generative Adversarial Networks (GANs) I
+
+Welcome to Day 69 of the 100 Days of Code challenge\!
+
+Today, we will rewatch Martin Keen explaining the competition between the generator and discriminator can be utilized to both create and detect how you can benefit from the competition. Pay attention to details on Zerosum Game.
+
+Check it out [here](https://www.youtube.com/watch?v=TpMIssRdhco)  
+---
+
+Day 70
+
+Generative Adversarial Networks (GANs) II
+
+Welcome to Day 70 of the 100 Days of Code challenge\!
+
+We already learnt that Generative adversarial networks (GANs) are deep learning architectures that use two neural networks (Generator and Discriminator), competing one against the other.  But what you don’t know yet is that the generator tries to create realistic looking fake data (e.g. images) and the discriminator tries to classify whether the data is real or fake.
+
+Today we are going to learn all about that [here](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD)  
+---
+
+Day 71
+
+Generative Adversarial Networks (GANs) II
+
+Welcome to Day 71 of the 100 Days of Code challenge\!
+
+The generator and discriminator are trained simultaneously, competing against each other in a minimax game. The generator improves in generating realistic data, while the discriminator becomes more proficient in distinguishing real from generated data. Today we will learn about this process and apply it.
+
+Today we are going to learn all about that [here](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD)  
+---
+
+Day 72
+
+Conditional GANs (CGANs)
+
+Welcome to Day 72 of the 100 Days of Code challenge\!
+
+Today we will learn how a GAN can be trained so that both the generator and the discriminator models are conditioned on the class label (or other modalities). This usually results in the trained generator model being used to generate images of a given type using the class label (or another condition). 
+
+Click  [here](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD) to get started. Remember to focus on just training a GAN.  
+---
+
+Day 73
+
+Conditional GANs (CGANs)
+
+Welcome to Day 73 of the 100 Days of Code challenge\!
+
+Today we will continue to explore CGANs and the need for this type of network. Some of the applications of CGANs include: 
+
+* Image-to-Image Translation  
+* Transform images from one set into images that could belong to another set.   
+* Increase the resolution of images, adding detail where necessary to fill in blurry areas.   
+* Take text as input and produce images as described by the text.
+
+Click  [here](https://www.youtube.com/watch?v=W5NPlZzebO0&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD&t=1122s) to get started.   
+---
+
+Day 74
+
+Transformers I
+
+Welcome to Day 74 of the 100 Days of Code challenge\!
+
+Today we will learn about transformers.   
+Transformers are a type of deep learning model that have revolutionized the field of natural language processing (NLP) and beyond. 
+
+Learn more about transformers [here](https://www.youtube.com/watch?v=wjZofJX0v4M)  
+---
+
+Day 75
+
+Transformers I
+
+Welcome to Day 75 of the 100 Days of Code challenge\!
+
+To complement what we have learnt yesterday, you can explore the  paper "Attention is All You Need" by Vaswani et al. in 2017\. The paper explains the concept of self-attention, which allows the model to weigh the importance of different input elements relative to each other.
+
+Rewatch transformers [here](https://www.youtube.com/watch?v=wjZofJX0v4M)
+
+---
+
